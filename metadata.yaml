@@ -1,0 +1,28 @@
+_repo: Back-Home_2642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Eugene
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '982'
+    url: http://www.gutenberg.org/2009/agents/982
+description: ''
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The old red school-house -- The Sabbath-school -- The revolving year
+  -- The swimming-hole -- The firemen's tournament -- The devouring element -- Circus
+  day -- The county fair -- Christmas back home.
+title: Back Home
+url: http://www.gutenberg.org/ebooks/2642
